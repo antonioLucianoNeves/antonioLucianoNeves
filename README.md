@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Oi! Meu nome é Antonio Luciano 👨‍ </h1>
+<br>
+<h3 align="center"> Desenvolvedor Trainee Full Stack.</h3>
+<br>
+<br>
 
-<!--
-**antonioLucianoNeves/antonioLucianoNeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Conecte comigo em:</h3>
+<p align="left">
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/antoniolucianorodrigues/" target="blank"> 
+<code><img height="32" src="https://img.shields.io/badge/linkedin-20232A?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></code></code></a>
+</code></code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Meus conhecimentos:</h3>
+
+<p align="left"> 
+
+<code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></code></code>
+<code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-JavaScript-20232A?for-the-badge&logo=javascript" alt="Javascript"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-NodeJs%20-20232A?style=for-the-badge&logo=Node.js&logoColor=white" alt="NodeJS"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-Vue.js%20-20232A?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-%20C%23-20232A?style=for-the-badge" alt="C#"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-MySQL-20232A?style=for-the-badge&logo=mysql" alt="Mysql"/></code>
+</p>
