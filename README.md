@@ -1,6 +1,6 @@
 <h1 align="center">Oi! Meu nome é Antonio Luciano 👨‍ </h1>
 <br>
-<h3 align="center"> Desenvolvedor Trainee Full Stack.</h3>
+<h3 align="center"> Desenvolvedor Full Stack.</h3>
 <br>
 <br>
 
